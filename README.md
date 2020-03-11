@@ -1,2 +1,2 @@
 # gnat-kill
-brincando com JavaScript
+Brincando com JavaScript. Game de matar mosquitos.
