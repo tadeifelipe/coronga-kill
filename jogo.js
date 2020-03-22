@@ -63,7 +63,7 @@ function posicaoRandomica(){
 
     //criar o elemento HTML
     var mosquito = document.createElement('img');
-    mosquito.src = 'imagens/mosquito.png';
+    mosquito.src = 'imagens/virus.png';
     mosquito.className = tamanhoAleatorio() + ' ' + ladoAleatorio();
     mosquito.style.left = posicaoX + 'px';
     mosquito.style.top = posicaoY + 'px';
